@@ -1,0 +1,64 @@
+h1{
+    font-size: 60px;
+    color:blueviolet;
+    text-align: center;
+}
+img {
+    margin: auto;
+    display: block;  
+ }
+ h3{
+     font-family: 'Gill Sans';
+     color: crimson;
+
+ }
+ .icono{<i class="fas fa-video"></i>}
+
+ ul{
+     background-color: rgba(173, 250, 206, 0.7);
+     width: 120px;
+     height: 100px;
+     padding-top: 25px;
+     padding-left: 50px;
+     border-radius: 51px 0px 49px 0px;
+-webkit-border-radius: 51px 0px 49px 0px;
+-moz-border-radius: 51px 0px 49px 0px;
+border: 5px solid rgba(83,67,225,0.53);
+font-family: 'Do Hyeon', sans-serif;
+ }
+ ol{
+     background-color: rgba(247, 188, 142, 0.7);
+     width: 120px;
+     height: 100px;
+     padding-top: 25px;
+     padding-left: 50px;
+         
+     border-radius: 51px 0px 49px 0px;
+-webkit-border-radius: 51px 0px 49px 0px;
+-moz-border-radius: 51px 0px 49px 0px;
+border: 5px solid rgba(83,67,225,0.53);
+font-family: 'Do Hyeon', sans-serif;
+ }
+ p{ 
+   
+    
+     color:  #477beb ;
+    font-weight:bold 
+ }
+ .destacados1{
+     background-color: #f9b9d1;
+   
+
+ }
+ .destacados2{
+     font-style: normal;
+     border-style: outset ;
+ }
+ .destacados3{
+     font-style: italic;
+     color:  #7b66b6 ;
+     
+ }
+ .parrafo{    font-family: 'Do Hyeon', sans-serif;
+
+    font-family: 'Indie Flower', cursive;}
