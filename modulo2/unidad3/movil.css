@@ -1,0 +1,30 @@
+#contenedor{
+   display:flex;
+   flex-direction: column;
+   font-style: black;
+   width: 800px;
+
+
+}
+#nav{
+    
+	width:100%;
+    margin: 0px;
+    background: #ECD662;
+    
+
+}
+#section{
+   
+	width:100%;
+    margin: 0px
+}
+
+#aside{
+    
+	width:100%;
+    margin: 0px
+}
+
+
+
